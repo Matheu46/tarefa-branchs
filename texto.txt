@@ -1,1 +1,1 @@
-uma linha qualquer de conteúdo com uma mudança diferente
+uma linha qualquer de conteúdo modificada com uma mudança diferente
