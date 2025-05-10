@@ -1,0 +1,11 @@
+Matheus Mathias Rocha Lúcio de Moraes
+
+git clone
+git status
+git add
+git commit -m
+git checkout -b
+git checkout
+git merge
+git remote add origin-atividade
+git push origin-atividade
